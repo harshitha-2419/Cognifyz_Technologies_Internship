@@ -60,4 +60,3 @@ This repository contains multiple programming tasks organized into separate fold
 - C++ tasks require a C++ compiler to build and run.
 - Task6 requires Node.js and npm installed.
 - Each task is self-contained within its folder.
-hiuhfishdf
